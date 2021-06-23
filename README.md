@@ -8,8 +8,6 @@
 
 ## Overview
 
-**[Our whiteboard](https://lucid.app/lucidchart/e1fbad30-80be-4c91-a42e-96ce5bdd84a7/edit?referringApp=slack&shared=true&page=0_0#)**
-
 **A Command Line Version of the dice game 'Game of Greed'** - Also known as '10,000', 'Farkle', 'Zilch', 'Foo', 'Crap Out', and more
 
 [Game rules](https://en.wikipedia.org/wiki/Dice_10000) / [Play game online](http://www.playonlinedicegames.com/farkle)
