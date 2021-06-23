@@ -4,6 +4,8 @@
 
 **Version**: 1.0.0
 
+**[Our whiteboard](https://lucid.app/lucidchart/e1fbad30-80be-4c91-a42e-96ce5bdd84a7/edit?referringApp=slack&shared=true&page=0_0#)**
+
 ## Overview
 
 **[Our whiteboard](https://lucid.app/lucidchart/e1fbad30-80be-4c91-a42e-96ce5bdd84a7/edit?referringApp=slack&shared=true&page=0_0#)**
@@ -52,7 +54,7 @@ Today is all about tackling the highest risk and/or highest priority features - 
 * Clone repo to your local terminal
 * Run a 'poetry install' to install dependencies
 * Make sure you have a .gitignore included in your local version
-  * If not, copy the content from [this link](https://github.com/codefellows/seattle-code-python-401n3/blob/main/.gitignore) into a .gitignore in your version
+  * If not, copy the content from [this link](https://github.com/codefellows/seattle-code-python-401n3/blob/main/.gitignore) into a .gitignore in your version 
 
 ----
 
