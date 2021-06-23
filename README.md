@@ -110,6 +110,7 @@ Today is all about tackling the highest risk and/or highest priority features - 
 * Created initial setup for Lab 06, updated README to include feature tasks and requirements.
 * Started basic scaffolding of classes and methods
 * Input starter tests from class repo
+* Created dev branch to avoid potential gituations
 
 ----
 
